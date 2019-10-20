@@ -122,11 +122,11 @@ Consiste em um aplicativo para donos de animais de estimação poderem procurar 
 ### Requisitos funcionais
 
 ##### Aplicativo
-RF-01: O aplicativo precisa ser baixado em uma loja de aplicativos
-RF-02: O aplicativo precisa ter tela de registro para que o usuário se cadastre previamente, antes de usá-lo.
-RF-03: Ao se cadastrar, o aplicativo precisa enviar um e-mail solicitando a confirmação do cadastro pelo usuário.
-RF-04: Ao entrar no aplicativo, o mesmo precisa mostrar uma tela solicitando o login e senha por parte do usuário.
-RF-05: O aplicativo deve possibilitar que o cliente salve sua senha, facilitando sua entrada das próximas vezes.
-RF-06: Ao fazer login, o aplicativo deverá mostrar uma lista de petshops e clínicas veterinárias mais próximas da localidade daquele usuário.
-RF-07: Ao clicar em uma loja, o aplicativo deverá mostrar uma lista com os produtos, serviços e preços daquele estabelecimento.
-RF-08: O aplicativo também deverá mostrar uma lista com avaliações e comentários sobre os estabelecimentos.
+- RF-01: O aplicativo precisa ser baixado em uma loja de aplicativos
+- RF-02: O aplicativo precisa ter tela de registro para que o usuário se cadastre previamente, antes de usá-lo.
+- RF-03: Ao se cadastrar, o aplicativo precisa enviar um e-mail solicitando a confirmação do cadastro pelo usuário.
+- RF-04: Ao entrar no aplicativo, o mesmo precisa mostrar uma tela solicitando o login e senha por parte do usuário.
+- RF-05: O aplicativo deve possibilitar que o cliente salve sua senha, facilitando sua entrada das próximas vezes.
+- RF-06: Ao fazer login, o aplicativo deverá mostrar uma lista de petshops e clínicas veterinárias mais próximas da localidade daquele usuário.
+- RF-07: Ao clicar em uma loja, o aplicativo deverá mostrar uma lista com os produtos, serviços e preços daquele estabelecimento.
+- RF-08: O aplicativo também deverá mostrar uma lista com avaliações e comentários sobre os estabelecimentos.
