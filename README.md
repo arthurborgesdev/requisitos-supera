@@ -1,11 +1,10 @@
 # requisitos-supera
 
-## Descrição
-Especificação de requisitos para curso de Modelagem de Requisitos na Supera. Contém mapa de empatia, canvas da proposta de valor, canvas do modelo de negócios e especificação de requisitos. Criado a partir de um curso dado no dia 19/12/2018 e com a participação de quatro (4) pessoas na equipe.
+## Description
+Specification of requirements to Requirements Modeling course at Supera company. It contains empaty map, value proposal canvas, business model canvas and requirements specification. Created at a course that happened at day 19/12/2018 with four people in the team.
 
-## Ideia desenvolvida
-Consiste em um aplicativo para donos de animais de estimação poderem procurar e comprar insumos e serviços em pet shops e clínicas veterinárias. O lojista terá acesso a um aplicativo web em que poderá enviar e-mail para os clientes que comprarem em sua loja com promoções de produtos.
-
+## Developed Idea
+It consists in an app for pet owners to search and buy supplies and services in pet shops and veterinary clinics. The salesperson will have access to a web app in which he or she will be able to send e-mails to clients with product promotions.
 
 ### Mapa de empatia
 O que ela sente e pensa? (O que realmente importa, quais as maiores preocupações, quais medos e aspirações)
